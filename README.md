@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lalithBusetti
+- 👋 Hi, I’m @lalith
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning 3rd year btech
 - 💞️ I’m looking to collaborate on ...
